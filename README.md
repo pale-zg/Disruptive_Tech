@@ -10,6 +10,6 @@ Notes from Distruptive Technologies Course - Machine Learning tutorial
 6. Video 16 - [Decision Tree Algorithm Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_16-Decision%20Tree%20Algorithm%20Analysis.ipynb)
 7. Video 18 - [Random Forest Algorithm Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_18-Random%20Forest%20Algorithm%20Analysis.ipynb)
 8. Video 20 - [K-Nearest Neighbor Algorithm Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_20-K-Nearest%20Neighbor%20Algorithm%20Analysis.ipynb)
-9. Video 21 - [Support Vector Nacgube Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_21-Support%20Vector%20Machine%20Analysis.ipynb)
+9. Video 21 - [Support Vector Machine Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_21-Support%20Vector%20Machine%20Analysis.ipynb)
 10. Video 23 - [Naive Bayes Classifier Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_23-Naive%20Bayes%20Classifier%20Analysis.ipynb)
 11. Video 24 - [K Means Clustering Algorithm Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_24-K%20Means%20Clustering%20Algorithm%20Analysis.ipynb)

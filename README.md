@@ -13,3 +13,8 @@ Notes from Distruptive Technologies Course - Machine Learning tutorial
 9. Video 21 - [Support Vector Machine Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_21-Support%20Vector%20Machine%20Analysis.ipynb)
 10. Video 23 - [Naive Bayes Classifier Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_23-Naive%20Bayes%20Classifier%20Analysis.ipynb)
 11. Video 24 - [K Means Clustering Algorithm Analysis](https://github.com/pale-zg/Disruptive_Tech/blob/master/V_24-K%20Means%20Clustering%20Algorithm%20Analysis.ipynb)
+
+## Scikit-Learn
+1. [Machine Learning With Scikit-Learn Tutorial](https://github.com/pale-zg/Disruptive_Tech/blob/master/Machine%20Learning%20With%20Scikit-Learn.ipynb)
+2. [Filip_Paležac_Mini_Scikit-Learn_Project-1](https://github.com/pale-zg/Disruptive_Tech/blob/master/Filip_Pale%C5%BEac_Mini_Scikit-Learn_Project-1.ipynb)
+3. [Filip_Paležac_Mini_Scikit-Learn_Project-2](https://github.com/pale-zg/Disruptive_Tech/blob/master/Filip_Pale%C5%BEac_Mini_Scikit-Learn_Project-2.ipynb)

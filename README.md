@@ -18,3 +18,7 @@ Notes from Distruptive Technologies Course - Machine Learning tutorial
 1. [Machine Learning With Scikit-Learn Tutorial](https://github.com/pale-zg/Disruptive_Tech/blob/master/Machine%20Learning%20With%20Scikit-Learn.ipynb)
 2. [Filip_Paležac_Mini_Scikit-Learn_Project-1](https://github.com/pale-zg/Disruptive_Tech/blob/master/Filip_Pale%C5%BEac_Mini_Scikit-Learn_Project-1.ipynb)
 3. [Filip_Paležac_Mini_Scikit-Learn_Project-2](https://github.com/pale-zg/Disruptive_Tech/blob/master/Filip_Pale%C5%BEac_Mini_Scikit-Learn_Project-2.ipynb)
+
+## Final Project - Telco Churn Prediction
+1. [Pre-Evaluation of Project](https://github.com/pale-zg/Disruptive_Tech/blob/master/telco_pre-evaluation.ipynb)
+2. [Churn prediction - Final Project](https://github.com/pale-zg/Disruptive_Tech/blob/master/telco-final.ipynb)
